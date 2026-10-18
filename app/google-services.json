@@ -1,0 +1,47 @@
+{
+    "project_info": {
+        "project_number": "1092174606487",
+        "firebase_url": "https://zerofrost-ab5b6-default-rtdb.asia-southeast1.firebasedatabase.app",
+        "project_id": "zerofrost-ab5b6",
+        "storage_bucket": "zerofrost-ab5b6.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:1092174606487:android:8dee95226e6188afb239d2",
+                "android_client_info": {
+                    "package_name": "com.zerofrost.app"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "1092174606487-2gopglb5csu1ru7qbrn1to64kb30tdt6.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyBjgn-QqmsaUFXjMj02dm5QrPBqPw4uz98"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "1092174606487-2gopglb5csu1ru7qbrn1to64kb30tdt6.apps.googleusercontent.com",
+                            "client_type": 3
+                        },
+                        {
+                            "client_id": "1092174606487-4nkliarllt267svqsc7lpa4ljc2g4m4r.apps.googleusercontent.com",
+                            "client_type": 2,
+                            "ios_info": {
+                                "bundle_id": "com.zerofrost.app"
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
